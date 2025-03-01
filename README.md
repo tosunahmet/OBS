@@ -7,9 +7,9 @@
 
 ## Menü
 
-`** OGRENCI NOT VE BILGI SISTEMINE HOS GELDINIZ ** 
+`** OGRENCI NOT VE BILGI SISTEMINE HOS GELDINIZ **`
 
-[1] Bilgi Girisi
+`[1] Bilgi Girisi
 [2] Listeleme
 [3] Ortalama Hesapla
 [4] Notu girilmeyen ogrencileri listele
@@ -29,9 +29,9 @@ Seciminiz : `
 
 ## Menu
 
-`** OGRENCI NOT VE BILGI SISTEMINE HOS GELDINIZ ** 
+`** OGRENCI NOT VE BILGI SISTEMINE HOS GELDINIZ **`
 
-[1] Bilgi Girisi
+`[1] Bilgi Girisi
 [2] Listeleme
 [3] Ortalama Hesapla
 [4] Notu girilmeyen ogrencileri listele
